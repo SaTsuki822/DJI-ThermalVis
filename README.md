@@ -20,9 +20,11 @@ The full dataset will be available after the paper is published.
 <div>
     <img src="./Examples_thermal/3610-BoundingBox.jpg" width="60%" />
 </div>
+Example of visible images.
 <div>
     <img src="./README.assets/visible.png" width="80%" />
 </div>
+Example of thermal images.
 <div>
     <img src="./README.assets/thermal.png" width="80%" />
 </div>
