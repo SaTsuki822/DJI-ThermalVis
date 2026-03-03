@@ -25,6 +25,7 @@ DJI-ThermalVis数据集的官方仓库。
     <img src="./Examples_thermal/3610-BoundingBox.jpg" width="60%" />
 </div>
 数据集正在整理中，将在论文发表后陆续公布。
+
 可见光图像示例
 <div>
     <img src="./README.assets/visible.png" width="80%" />
