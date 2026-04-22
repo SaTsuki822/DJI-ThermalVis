@@ -1,4 +1,4 @@
-# DJI-ThermalVis：面向城市环境地面暗弱目标的全天时可见光与热红外数据集及自动标注框架
+# DJI-ThermalVis：面向城市无人机载弱小目标检测的全时段多模态数据集
 
 DJI-ThermalVis数据集的官方仓库。
 
