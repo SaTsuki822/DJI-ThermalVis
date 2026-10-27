@@ -12,23 +12,20 @@ DJI-ThermalVis数据集的官方仓库。
 
 ### 标注示例
 
+热红外图像标注示例
 <div>
-    <img src="./Examples_thermal/2043.jpg" width="60%" />
+    <img src="./README.assets/example_thermal.png" width="100%" />
 </div>
+可见光图像标注示例
 <div>
-    <img src="./Examples_thermal/2043-BoundingBox.jpg" width="60%" />
-</div>
-<div>
-    <img src="./Examples_thermal/3610.jpg" width="60%" />
-</div>
-<div>
-    <img src="./Examples_thermal/3610-BoundingBox.jpg" width="60%" />
+    <img src="./README.assets/example_visible.png" width="100%" />
 </div>
 
 ### 数据集获取
 
 示例数据集文件下载链接如下：
-https://pan.baidu.com/s/1FIr0uQHjQx_6ldvM5bSBuw?pwd=hvkk
+[DJIThermalVis-下载链接](https://pan.baidu.com/s/1FIr0uQHjQx_6ldvM5bSBuw?pwd=hvkk)
 
 
 完整数据集获取将在论文发表后陆续开放。
+数据获取申请表参见：【./data_access/数据集下载链接申请表.docx】

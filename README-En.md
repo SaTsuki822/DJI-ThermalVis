@@ -9,26 +9,24 @@ This is the official implementation of the DJI-ThermalVis Dataset.
     <img src="README.assets/Data Distribution.bmp" width="50%" />
 </div>
 
-### Dataset Acquisition
-The full dataset will be available after the paper is published.
+### Annotation Example
+
+Thermal infrared image annotation example
 <div>
-    <img src="Examples_thermal/2043.jpg" width="60%" />
+    <img src="./README.assets/example_thermal.png" width="100%" />
 </div>
+可见光图像标注示例
 <div>
-    <img src="Examples_thermal/2043-BoundingBox.jpg" width="60%" />
+    <img src="./README.assets/example_visible.png" width="100%" />
 </div>
-<div>
-    <img src="Examples_thermal/3610.jpg" width="60%" />
-</div>
-<div>
-    <img src="Examples_thermal/3610-BoundingBox.jpg" width="60%" />
-</div>
-Example of visible images.
-<div>
-    <img src="README.assets/visible.png" width="80%" />
-</div>
-Example of thermal images.
-<div>
-    <img src="README.assets/thermal.png" width="80%" />
-</div>
+
+### Dataset Access
+
+Download link for the sample dataset is as follows:
+[DJIThermalVis-Download](https://pan.baidu.com/s/1FIr0uQHjQx_6ldvM5bSBuw?pwd=hvkk)
+
+
+The complete dataset will be made available gradually after the paper is published.
+
+For the data access application form, see: [./data_access/Dataset Download Link Application Form.docx]
 
