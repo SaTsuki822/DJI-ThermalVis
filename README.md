@@ -1,5 +1,6 @@
 # DJI-ThermalVis：面向城市无人机载弱小目标检测的全时段多模态数据集
 
+##### 语言：中文 | [英文](README-En.md)
 DJI-ThermalVis数据集的官方仓库。
 
 <div align=center>

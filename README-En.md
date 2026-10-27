@@ -1,5 +1,6 @@
 # DJI-ThermalVis: A Visible-Infrared Paired Dataset for Urban Adverse Condition Object Detection and Automatic Annotation Framework
 
+##### Language: English | [Chinese](README.md)
 This is the official implementation of the DJI-ThermalVis Dataset.
 <div align=center>
     <img src="./README.assets/figure1.bmp" width="100%" />
